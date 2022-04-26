@@ -1,4 +1,4 @@
-# CubeNet: Array-based seismic phase picking with Deep Learning
+# CubeNet: Array-based Seismic Phase Picking with Deep Learning
 
 A multi-trace seismic phase picking method for both P- and S- arrivals which is particularly suitable for dense array.
 
