@@ -45,9 +45,9 @@ The demo data cubes for training are located in the directory of npz files: demo
 
 The npz file contains four variable: "waveform", "label", "label_mat", "fs"
 
-**"waveform"**  and **"label"** have a shape of 3$\times$8$\times$8$\times$6000
+**"waveform"**  and **"label"** have a shape of 3 $\times$ 8 $\times$ 8 $\times$ 6000
 
-**"label_mat"** are marks with a shape of 3$\times$8$\times$8 indicating that traces in the cubes are labeled (marked as True) or not (marked as False)
+**"label_mat"** are marks with a shape of 3 $\times$ 8 $\times$ 8 indicating that traces in the cubes are labeled (marked as True) or not (marked as False)
 
 **"fs"** is the sampling rate of a cube.
 
